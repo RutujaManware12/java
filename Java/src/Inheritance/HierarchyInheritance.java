@@ -1,6 +1,6 @@
 package Inheritance;
 
-class Parent
+class Parent         // imp question - Why class is not support in mutltiple inheritance?
 {
 	void display(int a)
 	{
