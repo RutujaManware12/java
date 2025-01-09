@@ -11,7 +11,7 @@ class Dog extends Animal
 	
 	void displayColor()
 	{
-		System.out.println(super.color);
+		System.out.println(super.color); //super keyword use
 	}
 	
 }

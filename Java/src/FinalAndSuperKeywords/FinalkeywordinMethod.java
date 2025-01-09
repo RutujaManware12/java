@@ -1,5 +1,5 @@
 package FinalAndSuperKeywords;
-
+/*
  final class Test1
 {
 	final void m()
@@ -15,7 +15,7 @@ class Test2 extends Test1 //incorrect,bcoz Test1 is final class
 		System.out.println("This is m method from Test2");
 	}
 }
-
+*/
 
 
 
